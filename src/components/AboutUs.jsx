@@ -5,7 +5,7 @@ const AboutUs = () => {
     <div className="about-us-container">
       <h3>Our Story</h3>
       <p>
-        <strong>Paradise Nursery</strong> was founded with a simple mission: 
+        <strong>Paradise Nurseryy</strong> was founded with a simple mission: 
         to bring the beauty and tranquility of nature into every home.
       </p>
       <p>
